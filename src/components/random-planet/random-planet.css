@@ -1,0 +1,12 @@
+.random-planet {
+    width: 100%;
+    background-color: #353b46;
+    padding: 3%;
+    border-radius: 1%;
+}
+
+.random-planet img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}

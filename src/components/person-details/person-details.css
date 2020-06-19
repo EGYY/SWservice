@@ -1,0 +1,13 @@
+
+.person-details {
+    width: 100%;
+    background-color: #353b46;
+    border-radius: 1%;
+    padding: 5%;
+}
+.person-details img{
+    width: auto;
+    height: 300px;
+    border-radius: 5%;
+
+}
